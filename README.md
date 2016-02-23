@@ -13,3 +13,7 @@ Make sure the following is added to the remote server's php.ini.
     xdebug.remote_port=9000
     xdebug.idekey=PHPSTORM
     xdebug.remote_host=localhost
+
+![](ssh-tunnel.gif)
+
+![](php-storm-config.gif)
