@@ -14,6 +14,6 @@ Make sure the following is added to the remote server's php.ini.
     xdebug.idekey=PHPSTORM
     xdebug.remote_host=localhost
 
-![](ssh-tunnel.gif)
+![](https://github.com/litzinger/xdebug/blob/master/ssh-tunnel.png)
 
-![](php-storm-config.gif)
+![](https://github.com/litzinger/xdebug/blob/master/php-storm-config.png)
